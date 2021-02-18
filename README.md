@@ -11,7 +11,7 @@ Successful marketing automation is essential to the future of your mobile app. B
 - [Full Class Documentation](http://appboy.github.io/appboy-ios-sdk/docs/annotated.html "Braze iOS SDK Class Documentation")
 
 ## Uses
-Please use this repo when importing through Swift Package Manager to ensure optimal performance.
+Please use this repo when integrating via Swift Package Manager to ensure optimal performance.
 
 ## Components
 
