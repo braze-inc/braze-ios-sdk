@@ -2,7 +2,7 @@
 
 # iOS SDK
 
-> ⚠️ For versions prior to 3.32.0, please reference the original `Appboy` repo here: https://github.com/Appboy/Appboy-ios-sdk
+> ⚠️ For versions prior to 3.33.1, please reference the original `Appboy` repo here: https://github.com/Appboy/Appboy-ios-sdk
 
 Successful marketing automation is essential to the future of your mobile app. Braze helps you engage your users beyond the download. Visit the following links for details and we'll have you up and running in no time!
 
