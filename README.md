@@ -1,6 +1,6 @@
 <img src="https://github.com/Appboy/appboy-ios-sdk/blob/master/braze-logo.png" width="300" title="Braze Logo" />
 
-# iOS SDK
+# iOS SDK (Swift Package Manager only)
 
 > ⚠️ For versions prior to 3.33.1, please reference the original `Appboy` repo here: https://github.com/Appboy/Appboy-ios-sdk
 
@@ -21,8 +21,6 @@ Please use this repo when integrating via Swift Package Manager to ensure optima
 ## Version Support
 
 The iOS SDK supports iOS 9.0+.
-
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage) as a prebuilt framework.  Building from source currently not supported, see [#85](https://github.com/Appboy/appboy-ios-sdk/issues/85). 
 
 ## Questions?
 
