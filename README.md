@@ -1,3 +1,7 @@
+### ⚠ The new [Braze Swift SDK](https://github.com/braze-inc/braze-swift-sdk) is now available!
+
+</br>
+
 <img src="https://github.com/Appboy/appboy-ios-sdk/blob/master/braze-logo.png" width="300" title="Braze Logo" />
 
 # iOS SDK (Swift Package Manager only)
