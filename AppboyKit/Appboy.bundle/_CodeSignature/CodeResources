@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>ZipArchive_LICENSE.txt</key>
+		<data>
+		JbmSdiuxe/Zs/esUY7pUvV4byF4=
+		</data>
 		<key>appboy-spm-cleanup.sh</key>
 		<data>
 		O3UfCL3lKKMB/+splkNXf6zYbbU=
@@ -344,6 +348,17 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>ZipArchive_LICENSE.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JbmSdiuxe/Zs/esUY7pUvV4byF4=
+			</data>
+			<key>hash2</key>
+			<data>
+			j7CoF6NtgM8sSqLkZ/syPjE4TgZL0oOqy+1tPp5ip/M=
+			</data>
+		</dict>
 		<key>appboy-spm-cleanup.sh</key>
 		<dict>
 			<key>hash</key>

@@ -1,5 +1,9 @@
 ### ⚠ The new [Braze Swift SDK](https://github.com/braze-inc/braze-swift-sdk) is now available!
 
+The Appboy iOS SDK (Objective-C SDK) is no longer in active development. All new iOS features Braze releases, like Live Activities and Feature Flags, will only be supported on the [Swift SDK](https://github.com/braze-inc/braze-swift-sdk). Any further updates the Appboy iOS SDK receives will only address security or critical bugs. After March 1, 2024 this repository will no longer be maintained.
+
+See [our blog post](https://www.braze.com/resources/articles/introducing-the-new-braze-swift-sdk) for more information.
+
 </br>
 
 <img src="https://github.com/Appboy/appboy-ios-sdk/blob/master/braze-logo.png" width="300" title="Braze Logo" />
@@ -24,7 +28,9 @@ Please use this repo when integrating via Swift Package Manager to ensure optima
 
 ## Version Support
 
-The iOS SDK supports iOS 9.0+.
+- The iOS SDK supports iOS `11.0`+.
+- This SDK is built using Xcode `14.2`.
+  - SDK versions prior to `4.6.0` were built with Xcode `13.x` or older.
 
 ## Questions?
 
